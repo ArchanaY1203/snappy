@@ -42,6 +42,6 @@ Run the project
 ```bash
   npm start
 ```
-## Contributors
+## Contributor
 
 [Archana Yadav](https://github.com/ArchanaY1203)
